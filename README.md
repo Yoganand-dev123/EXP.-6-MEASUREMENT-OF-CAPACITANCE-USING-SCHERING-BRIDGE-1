@@ -1,4 +1,4 @@
-# EXP.-6-MEASUREMENT-OF-CAPACITANCE-USING-SCHERING-BRIDGE-1
+# MEASUREMENT OF CAPACITANCE USING SCHERING BRIDGE
 
 ## AIM
 
@@ -38,5 +38,7 @@ The current voltmeter reading is:
   ## Circuit Diagram :
   <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
 
+<img width="992" height="681" alt="Screenshot 2025-09-24 211031" src="https://github.com/user-attachments/assets/56c82a77-c107-4e96-88cf-718df9382b13" />
 
 ## Result: 
+To Determine the Capacitance of an unknown Capacitor using Schering Bridge is completed.
